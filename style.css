@@ -1,0 +1,21 @@
+body {
+    background-image: url("http://2.bp.blogspot.com/_v-6mtcDsBNs/TDe4Q4JldPI/AAAAAAAAAro/rpTPBBbZWjE/s1600/percussion.jpg");
+}
+
+
+.key {
+  padding: 20px;;
+}
+
+.keys {
+  text-align: center;
+  position: center;
+  margin: auto;
+  color: white;
+}
+
+kbd {
+  background: black;
+  border: solid;
+  font-size: larger
+}
